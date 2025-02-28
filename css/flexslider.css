@@ -21,7 +21,7 @@
 *********************************/ 
 .flexslider { margin: auto; padding: 0;}
 .flexslider .slides > li {display: none; -webkit-backface-visibility: hidden;}
-.flexslider .slides img {width: 100%; height: 1000px; display: block;}
+.flexslider .slides img {width: 100%; display: block;}
 .flex-pauseplay span {text-transform: capitalize;}
 
 .slides:after {content: "."; display: block; clear: both; visibility: hidden; line-height: 0; height: 0;} 
